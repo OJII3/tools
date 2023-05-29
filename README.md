@@ -16,6 +16,9 @@
 - pip
 - rustup
 - online-judge-tools
+- rye
+- ripgrep
+- fzf
 
 ### GUI
 
